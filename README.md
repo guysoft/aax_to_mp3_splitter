@@ -1,5 +1,5 @@
 # Aax to MP3 Splitter
-Take mp3 files created from AAX2MP2, and text created from AudibleChapters and split accordingly
+Take mp3 files created from AAX2MP3, and text created from AudibleChapters and split accordingly
 
 USE THIS FOR BACKUP ONLY.
 Software and anything in this repo is provided provided AS IS.
