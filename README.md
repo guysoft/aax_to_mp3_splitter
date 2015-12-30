@@ -13,8 +13,8 @@ Software and anything in this repo is provided provided AS IS.
 5. ffempg installed and in PATH
 
 ## What to run and how
-1. Convert the file using AAXtoMP3 (select an aax downloaded to the machine).
-2. Run AudibleChapters and get a text file with the list of chapters
+1. Convert the file using AAXtoMP3 (select an aax downloaded to the machine). You should now have an MP3.
+2. Run AudibleChapters and get a text file with the list of chapters. Don't attempt to run conversions, just the aax file as input, and put the output in a text file. You shoul have a text file that has the list of chapters. [Here is an example](https://github.com/guysoft/aax_to_mp3_splitter/blob/master/data_file_example.txt).
 3. Create an empty folder
 4. Run the program this script like this:
 
