@@ -1,0 +1,30 @@
+
+Audible CD Image Converter 2.0, Copyright 2015 by Anonymous Audible Addict
+
+Encoding to Flac
+
+Book name (Unabridged) (YEAR)
+Author name (More stuff)
+
+Chapter   1: 00:00:00:000  :  Chapter 1
+Chapter   2: 00:31:36:095  :  Chapter 2
+Chapter   3: 01:03:48:320  :  Chapter 3
+Chapter   4: 01:30:49:119  :  Chapter 4
+Chapter   5: 01:58:58:858  :  Chapter 5
+Chapter   6: 02:24:19:812  :  Chapter 6
+Chapter   7: 02:57:58:183  :  Chapter 7
+Chapter   8: 03:31:35:370  :  Chapter 8
+Chapter   9: 04:04:14:647  :  Chapter 9
+Chapter  10: 04:35:18:815  :  Chapter 10
+Chapter  11: 05:08:07:031  :  Chapter 11
+Chapter  12: 05:40:19:767  :  Chapter 12
+Chapter  13: 06:11:07:611  :  Chapter 13
+Chapter  14: 06:48:06:115  :  Chapter 14
+Chapter  15: 07:13:42:812  :  Chapter 15
+Chapter  16: 07:43:32:513  :  Chapter 16
+Chapter  17: 08:13:05:147  :  Chapter 17
+Chapter  18: 08:44:59:215  :  Chapter 18
+Chapter  19: 09:10:34:983  :  Chapter 19
+Chapter  20: 09:38:49:064  :  Chapter 20
+
+Total Dur. : 10:00:49:026
