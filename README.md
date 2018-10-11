@@ -1,3 +1,5 @@
+Update: use this method, its much better: https://github.com/KrumpetPirate/AAXtoMP3
+
 # Aax to MP3 Splitter
 Take mp3 files created from AAX2MP3, and text created from AudibleChapters and split accordingly
 
